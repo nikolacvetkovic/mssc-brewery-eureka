@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>io.github.nikolacvetkovic</groupId>
-    <artifactId>mssc-brewery-eureka</artifactId>
+    <artifactId>brewery-eureka</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <name>mssc-brewery-eureka</name>
