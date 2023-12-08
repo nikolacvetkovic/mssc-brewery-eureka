@@ -13,7 +13,7 @@
     <artifactId>brewery-eureka</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>mssc-brewery-eureka</name>
+    <name>brewery-eureka</name>
     <description>mssc-brewery-eureka</description>
 
     <properties>
